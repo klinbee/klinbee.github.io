@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Klinbee's Worldgen Blog
+layout: home 
 description: I will ruin your day
